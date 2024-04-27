@@ -1,4 +1,4 @@
-# Tax Visualization Dash App
+# Choropleth Map Visualization Dash App
 
 This Dash application visualizes U.S. tax data per capita using interactive choropleth maps. It leverages Python, Dash by Plotly, and other essential libraries to offer an interactive interface where users can explore various tax metrics across different states.
 # Features
