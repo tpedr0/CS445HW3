@@ -15,8 +15,9 @@ Before you can run this application, you'll need to install several dependencies
 	git clone https://github.com/tpedr0/CS445HW3.git
 
 
-4. Install dependencies
-3.pip install -r requirements.txt
+Install dependencies:
+	
+ 	pip install -r requirements.txt
 
 # Usage
 
