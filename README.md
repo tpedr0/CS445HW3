@@ -2,10 +2,9 @@
 
 This Dash application visualizes U.S. tax data per capita using interactive choropleth maps. It leverages Python, Dash by Plotly, and other essential libraries to offer an interactive interface where users can explore various tax metrics across different states.
 # Features
-
-    Dual Interactive Maps: Visualize different tax items on separate maps.
-    Per Capita Tax Data: Data normalized by state population to reflect per capita metrics.
-    Interactive Elements: Buttons to select different tax categories for visualization.
+- Dual Interactive Maps: Visualize different tax items on separate maps.
+- Per Capita Tax Data: Data normalized by state population to reflect per capita metrics.
+- Interactive Elements: Buttons to select different tax categories for visualization.
 
 # Installation
 
