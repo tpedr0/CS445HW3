@@ -11,8 +11,8 @@ This Dash application visualizes U.S. tax data per capita using interactive chor
 
 Before you can run this application, you'll need to install several dependencies:
 
-	cd [C:\Users\'UserName'\Desktop]
-	git clone [https://github.com/tpedr0/CS445HW3.git]
+	cd C:\Users\'UserName'\Desktop
+	git clone https://github.com/tpedr0/CS445HW3.git
 
 
 4. Install dependencies
